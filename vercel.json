@@ -23,6 +23,12 @@
         "APP_DEBUG": "false",
         "APP_URL": "https://api-laravel.vercel.app",
         "APP_KEY": "base64:SCbjXfXOpwMsbtUls0bkF2yCwxzGQIRjoZLxW+v7mDw=",
+        "DB_CONNECTION": "mysql",
+        "DB_HOST": "193.203.168.87",
+        "DB_PORT": "3306",
+        "DB_DATABASE": "u822234768_colix",
+        "DB_USERNAME": "u822234768_charleslionel",
+        "DB_PASSWORD": "*0PmR*REWFLe",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
